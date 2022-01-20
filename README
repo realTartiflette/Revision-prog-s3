@@ -1,0 +1,16 @@
+liste exo:
+    1. facto
+    2. fibo
+    3. bubble_sort
+    4. int_palindrome
+    5. mat_trans
+    6. mat_mult
+    7. combine_string
+
+Ne changer que le les fichiers .c
+Ne contient pas d'exo sur les listes chainée )):
+
+Pour avoir access au test:
+    décommenter la fonction en question dans le fichier test.c
+    écrire make dans le terminal puis ./test
+
