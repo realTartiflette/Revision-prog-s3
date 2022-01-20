@@ -22,7 +22,7 @@ mat_trans.o: mat_trans.h
 	gcc $(CFLAGS) -c mat_trans.c
 mat_mult.o: mat_mult.h
 	gcc $(CFLAGS) -c mat_mult.c
-combine_string: combine_string.h
+combine_string.o: combine_string.h
 	gcc $(CFLAGS) -c combine_string.c
 
 .PHONY: clean
