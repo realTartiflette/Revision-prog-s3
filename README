@@ -13,4 +13,6 @@ Ne contient pas d'exos sur les listes chainées )):
 Pour avoir accès au test:
     décommenter la fonction en question dans le fichier test.c
     écrire make dans le terminal puis ./test
+    
+Correction de tous les exos dans le fichier correction.c
 
