@@ -7,10 +7,10 @@ liste exo:
     6. mat_mult
     7. combine_string
 
-Ne changer que le les fichiers .c
-Ne contient pas d'exo sur les listes chainée )):
+Ne changer que les fichiers .c
+Ne contient pas d'exos sur les listes chainées )):
 
-Pour avoir access au test:
+Pour avoir accès au test:
     décommenter la fonction en question dans le fichier test.c
     écrire make dans le terminal puis ./test
 
